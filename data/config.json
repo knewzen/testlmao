@@ -20,11 +20,11 @@
         },
         {
             "question": "Which Tournament are you Applying for? (ID that Fridge provides in <#253021418772496384>)",
-            "embed_title": "Team ID"
+            "embed_title": "Tournament ID"
         },
         {
             "question": "Which Team are you Applying for? (Team Fire, Team Wind, Team Water, Team Earth)",
-            "embed_title": "Applied for Team"
+            "embed_title": "Requested Team"
         },
         {
             "question": "Are you able to stream the Tournament on your Twitch/Mixer Channel?",
