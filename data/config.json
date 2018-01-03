@@ -1,44 +1,44 @@
 {
-    "token": "MzYxNTcyMTI3OTE4MzkxMjk4.DS4FUg.85V9tOh09VB8nOdwl5EaUZBBfIU",
+    "token": "Mzk4MjU2NTAwNDQ0ODg5MDg5.DS75dA.X6aY2vjEcx0CivscT4ISgVIOsIs",
     "command_prefix": "!",
     "questions": [
         {
-            "question": "Have you read the 24/7 Channel Broadcaster Guide?",
-            "embed_title": "Question 1"
+            "question": "Have you contacted <@232254826560356354>?",
+            "embed_title": "Contacted Fridge?"
         },
         {
-            "question": "Are you 16 years of age or older?",
-            "embed_title": "Question 2"
+            "question": "Have you signed up on (<http://challonge.com/>)?",
+            "embed_title": "Signed up on  Challonge?"
         },
         {
-            "question": "Are you on the Streamers Connected Twitch Team?",
-            "embed_title": "Question 3"
+            "question": "What is your Timezone?",
+            "embed_title": "Timezone?"
         },
         {
-            "question": "What is your Twitch username?",
-            "embed_title": "Question 4"
+            "question": "Are you available for the next Tournament?",
+            "embed_title": "Available for the Tournament?"
         },
         {
-            "question": "What is your Twitter username?",
-            "embed_title": "Question 5"
+            "question": "Which Tournament are you Applying for? (ID that Fridge provides in <#253021418772496384>)",
+            "embed_title": "Team ID"
         },
         {
-            "question": "Have you ever been suspended or banned on Twitch?",
-            "embed_title": "Question 6"
+            "question": "Which Team are you Applying for? (Team Fire, Team Wind, Team Water, Team Earth)",
+            "embed_title": "Applied for Team"
         },
         {
-            "question": "How long do you plan to commit to streaming to our 24/7 Twitch channel? You must commit to a minimum of 4 weeks to start, but you will be given the opportunity to continue streaming beyond that (in 4 week intervals) For EX: 4 Weeks, 8 Weeks, More than 8 Weeks, or As long as I can.",
-            "embed_title": "Question 7"
+            "question": "Are you able to stream the Tournament on your Twitch/Mixer Channel?",
+            "embed_title": "Streaming the Tournament?"
         },
         {
-            "question": "Why do you want to stream to our 24/7 Twitch channel?",
-            "embed_title": "Question 8"
+            "question": "Are you able to RSVP four our Tournament 1-3 Days before the Tournament happens?",
+            "embed_title": "RSVP to Tournament?"
         }
     ],
     "output": 397977130262200331,
     "dm_only": true,
     "apply_command_name": "apply",
-    "welcome_message": "Hello, welcome to this 24/7 stream application prompt.",
+    "welcome_message": "Hello, welcome to this Tournaments application prompt. (**CONTACT <@232254826560356354>)",
     "redis": {
         "host": "localhost",
         "port": 6379
