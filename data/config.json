@@ -1,28 +1,44 @@
 {
-    "token": "MzYxNTcyMjY0MTA3NTczMjU4.DS39GA.IgxexysZSsWUxvvt3Wk_5En3V9A",
+    "token": "MzYxNTcyMTI3OTE4MzkxMjk4.DS4FUg.85V9tOh09VB8nOdwl5EaUZBBfIU",
     "command_prefix": "!",
     "questions": [
         {
-            "question": "What is your server ID?",
-            "embed_title": "Server ID"
+            "question": "Have you read the 24/7 Channel Broadcaster Guide?",
+            "embed_title": "Question 1"
         },
         {
-            "question": "What is your server name?",
-            "embed_title": "Server Name"
+            "question": "Are you 16 years of age or older?",
+            "embed_title": "Question 2"
         },
         {
-            "question": "Give us a description of your server. (**300 Characters +**)",
-            "embed_title": "Server Description"
+            "question": "Are you on the Streamers Connected Twitch Team?",
+            "embed_title": "Question 3"
         },
         {
-            "question": "Give us a non-expirable invite link. (**Cannot be Discord.io/Discord.me**)",
-            "embed_title": "Server Invite"
+            "question": "What is your Twitch username?",
+            "embed_title": "Question 4"
+        },
+        {
+            "question": "What is your Twitter username?",
+            "embed_title": "Question 5"
+        },
+        {
+            "question": "Have you ever been suspended or banned on Twitch?",
+            "embed_title": "Question 6"
+        },
+        {
+            "question": "How long do you plan to commit to streaming to our 24/7 Twitch channel? You must commit to a minimum of 4 weeks to start, but you will be given the opportunity to continue streaming beyond that (in 4 week intervals) For EX: 4 Weeks, 8 Weeks, More than 8 Weeks, or As long as I can.",
+            "embed_title": "Question 7"
+        },
+        {
+            "question": "Why do you want to stream to our 24/7 Twitch channel?",
+            "embed_title": "Question 8"
         }
     ],
     "output": 397977130262200331,
     "dm_only": true,
     "apply_command_name": "apply",
-    "welcome_message": "Hello, welcome to this partnerships prompt.",
+    "welcome_message": "Hello, welcome to this 24/7 stream application prompt.",
     "redis": {
         "host": "localhost",
         "port": 6379
