@@ -39,14 +39,14 @@
             "embed_title": "RSVP to Tournament?"
         },
         {
-            "question": "Have you read all of the Details that <@232254826560356354>* has provided in <#253021418772496384> for this specific tournament?",
+            "question": "Have you read all of the Details that <@232254826560356354> has provided in <#253021418772496384> for this specific tournament?",
             "embed_title": "Read Tournament Details?"
         }
     ],
     "output": 397977130262200331,
     "dm_only": true,
     "apply_command_name": "apply",
-    "welcome_message": "Hello, welcome to this Tournaments application prompt. (**CONTACT <@232254826560356354>**) ",
+    "welcome_message": "Hello, welcome to this Tournaments application prompt. (**CONTACT <@232254826560356354> After you're done filling out this Application!**) ",
     "redis": {
         "host": "localhost",
         "port": 6379
