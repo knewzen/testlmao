@@ -31,15 +31,15 @@
             "embed_title": "Streaming the Tournament?"
         },
         {
-            "question": "What is your Twitch Channel? (Must be link - <https://twitch.tv/username>)",
-            "embed_title": "Twitch Channel"
+            "question": "What is your Twitch Channel? (Must be link - For EX: <https://twitch.tv/username>)",
+            "embed_title": "Twitch/Mixer Channel"
         },
         {
             "question": "Are you able to RSVP for our Tournament 1-3 Days before the Tournament happens?",
             "embed_title": "RSVP to Tournament?"
         },
         {
-            "question": "Have you read all of the Details that <@232254826560356354> has provided in <#253021418772496384> for this specific tournament?",
+            "question": "Have you read all of the details/information that <@232254826560356354> has provided in <#253021418772496384> for this specific tournament?",
             "embed_title": "Read Tournament Details?"
         }
     ],
